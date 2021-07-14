@@ -35,6 +35,17 @@ CONSTRAINTS :
   </msup>
 </math>
 
+Input format
+
+The first line contains an integer  denoting the number of test cases.
+For each test case, the first line contains an integer .
+
+Output format
+
+
+For each test case in a new line, print the minimum number of operations required. 
+
+
 ### Problem Statement 2 :  A LARGE SUBSET
 ->
 
@@ -80,3 +91,16 @@ CONSTRAINTS:
     <mn>9</mn>
   </msup>
 </math>
+
+Input format :
+
+The first line contains an integer  denoting the number of test cases.
+
+The first line of each test case contains an integer .
+
+The second line of each test case contains  space-separated integers denoting array .
+
+
+Output format
+
+For each test case in a new line, print two space-separated integers where the first integer denotes the value of  and the second integer denotes the number of square-free numbers for which there exists a subset of  integers of size  such that every integer in the subset is divisible by that square-free number.
