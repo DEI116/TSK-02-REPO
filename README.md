@@ -4,11 +4,12 @@
 ### Problem Statement 1 : A BINARY PALINDROME
 
 
-->You are given a number . In one operation, you can either increase the value of  by 1 or decrease the value of  by 1.
+You are given a number . In one operation, you can either increase the value of  by 1 or decrease the value of  by 1.
 
 Determine the minimum number of operations required (possibly zero) to convert number  to a number  such that binary representation of  is a palindrome.
 
 constraints :
+
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mn>1</mn>
   <mo>&#x2264;<!-- ≤ --></mo>
@@ -16,9 +17,11 @@ constraints :
   <mo>&#x2264;<!-- ≤ --></mo>
   <msup>
     <mn>10</mn>
+    <mn>^</mn>
     <mn>5</mn>
   </msup>
   <mspace linebreak="newline" />
+  
   <mn>0</mn>
   <mo>&#x2264;<!-- ≤ --></mo>
   <mi>N</mi>
@@ -27,6 +30,7 @@ constraints :
   <mo>&#x00D7;<!-- × --></mo>
   <msup>
     <mn>10</mn>
+    <mn>^</mn>
     <mn>9</mn>
   </msup>
 </math>
